@@ -124,16 +124,11 @@ ping <target-host>
 
 ---
 
-## Project Structure
+## Documentation
 
-```
-opnsense-routing-lab/
-│
-├── README.md
-├── docs/
-│   └── lab-documentation.md
-└── images/
-```
+Detailed step-by-step guide is available in:
+
+[Lab Documentation](docs/lab-documentation.md)
 
 ---
 
